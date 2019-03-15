@@ -96,7 +96,7 @@ int main()
 	BST b1;
 	int x;
 	//inserting values
-	for(int i=1;i<6;i++)
+	for(int i=1;i<7;i++)
 		b1.insert(i);
 	//displays the tree
 	b1.display();
